@@ -1,7 +1,7 @@
 
-            Fonts used: OldStandardTT-Italic 
+            Fonts used: Lobster-Regular 
 
-            Colors used: 2C3337,AAA8A6  
+            Colors used: B0C1C6,D93128  
 
-            Icon url: https://thenounproject.com/term/speed/1286233  
+            Icon url: https://thenounproject.com/term/cat/16470  
         
